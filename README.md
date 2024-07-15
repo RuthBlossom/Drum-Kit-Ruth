@@ -2,6 +2,9 @@
 
 This HTML document represents a simple drum kit web application created by Ruth. Users can play drum sounds by clicking on the buttons or pressing the corresponding keyboard keys.
 
+
+![Uploading drum kit.JPG…]()
+
 ## Features
 
 - **Drum Buttons**: Seven buttons representing different drum sounds, labeled with corresponding letters ('w', 'a', 's', 'd', 'j', 'k', 'l').
